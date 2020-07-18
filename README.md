@@ -1,2 +1,2 @@
 # ASM
-assembly language playground
+A place to have fun with assembly!
