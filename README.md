@@ -8,5 +8,3 @@
 - [University of VA guide with assembly basics](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 - [instruction reference sheet](https://www.felixcloutier.com/x86/)
 - [compiler explorer: shows corresponding assembly for code written in a higher-level language](https://godbolt.org/)
-
-TODO: decide between NASM and GAS

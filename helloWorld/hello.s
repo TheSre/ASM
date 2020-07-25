@@ -18,8 +18,8 @@ write:
 
         # exit(0)
         mov     $60, %rax
-        mov     $0, %rdi
+        xor     %edi, %edi
         syscall
 
 message:
-        .ascii  "Hello!\n"
+        .string  "Hello!\n"
